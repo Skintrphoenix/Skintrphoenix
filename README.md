@@ -20,9 +20,9 @@
 
 **My Stats:**
 
-[![My Stats](https://github-readme-stats.vercel.app//api?username=Skintrphoenix&show_icons=true&count_private=true&hide_title=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Skintrphoenix/)
+[![My Stats](https://github-readme-stats.vercel.app//api?username=Skintrphoenix&show_icons=true&count_private=true&hide_title=true&bg_color=30,3668B5,904e95&title_color=fff&text_color=fff)](https://github.com/Skintrphoenix/)
 
 **My Langs:**
 
-[![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skintrphoenix&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Skintrphoenix/)
+[![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skintrphoenix&layout=compact&bg_color=30,3668B5,904e95&title_color=fff&text_color=fff)](https://github.com/Skintrphoenix/)
 
