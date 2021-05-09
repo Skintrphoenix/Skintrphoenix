@@ -20,6 +20,7 @@
 
 **Donate:**
 
+[<code><img alt="Paypal" height="20px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZtu0A0ei_zJNYA2SjujzpX1MFs4j348OIuNtQSj8JBOJuy-LCwx7CzuQ&s=10"/></code>](https://paypal.me/Skintrphoenix)
 
 **My Stats:**
 
