@@ -12,6 +12,9 @@
 **Languages:**
 
 [<code><img alt="Php" height="20px" src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png"/></code>](https://www.php.net/)
+[<code><img alt="Html" height="20px" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"/></code>](https://html.com/)
+[<code><img alt="Bash Shell" height="20px" src="https://seeklogo.com/images/B/bash-logo-BF4F6893D9-seeklogo.com.png"/></code>](https://www.gnu.org/software/bash/)
+[<code><img alt="CSS" height="20px" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png"/></code>]()
 
 **Tools:**
 
